@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JMCurl_Tests' do
+  pod 'JMCurl', :path => '../'
+  
+  pod 'Kiwi'
+end
